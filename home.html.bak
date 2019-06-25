@@ -7,13 +7,12 @@
     <title>
         Hello World
     </title>
+    
     <style>
     	body
     	{
     	font: statusbar; font-stretch: wider; text-indent: inherit; text-align: justify; text-decoration: underline; color: #00ffff;
     	}
-    	
-    	
     </style>
 </head>
 <body>
